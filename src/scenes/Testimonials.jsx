@@ -21,8 +21,7 @@ const Testimonials = () => {
         </p>
         <LineGradient width="mx-auto w-2/5" />
         <p className="mt-10">
-          Here's What People are Saying About My Work. Aliquam aliquet integer
-          ut fames odio in at. At magna ornare dictum lectus.
+         Great work is best reflected through the words of those who’ve experienced it firsthand. From college projects to hackathons, my peers have seen my dedication, problem-solving skills, and passion for web development. Here’s what they have to say about working with me!
         </p>
       </motion.div>
 
@@ -42,7 +41,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea.
+            Working with Raunak on college projects was a great experience. His web development skills and problem-solving approach always made things easier!
           </p>
         </motion.div>
 
@@ -60,7 +59,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Aliquam aliquet integer ut fames odio in at. At magna ornare dictum
+            Raunak is a brilliant developer who excels under pressure. His ability to create efficient and user-friendly.
             lectus.
           </p>
         </motion.div>
@@ -79,7 +78,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Fames odio in at. At magna ornare dictum lectus.
+           Brilliant developer who excels under pressure. His ability to create efficient and user-friendly
           </p>
         </motion.div>
       </div>
