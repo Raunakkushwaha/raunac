@@ -21,7 +21,7 @@ const Testimonials = () => {
         </p>
         <LineGradient width="mx-auto w-2/5" />
         <p className="mt-10">
-         Great work is best reflected through the words of those who’ve experienced it firsthand. From college projects to hackathons, my peers have seen my dedication, problem-solving skills, and passion for web development. Here’s what they have to say about working with me!
+         Great work is best reflected through the words. Here’s what they have to say about working with me!
         </p>
       </motion.div>
 
@@ -41,7 +41,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Working with Raunak on college projects was a great experience. His web development skills and problem-solving approach always made things easier!
+            Working with Raunak on college projects was a great experience. His problem-solving approach always made things easier!
           </p>
         </motion.div>
 
