@@ -93,7 +93,7 @@ const Skills = () => {
     { icon: 'fab fa-java', color: 'purple', label: 'Java' },
     { icon: 'fas fa-video', color: 'coral', label: 'Video Editing' },
     { icon: 'fas fa-server', color: 'slate', label: 'Backend' },
-    { icon: 'fas fa-laptop', color: 'mint', label: 'Laptop' },
+    { icon: 'fas fa-laptop', color: 'mint', label: 'Canva' },
   ];
 
   return (
