@@ -18,8 +18,8 @@ export const Projects = () => {
           <Link
           heading="APPLICA"
           subheading="AI-powered resume analyzer ensuring ATS compatibility."
-          imgSrc="./assets/p9.png"
-          href="https://travelnest1.onrender.com/listings"
+          imgSrc="./assets/p11.png"
+          href="https://applica-beta.vercel.app/"
         />
 
         
