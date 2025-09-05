@@ -15,6 +15,14 @@ export const Projects = () => {
          
         </div>
       <div className="mx-auto max-w-5xl">
+          <Link
+          heading="APPLICA"
+          subheading="AI-powered resume analyzer ensuring ATS compatibility."
+          imgSrc="./assets/p9.png"
+          href="https://travelnest1.onrender.com/listings"
+        />
+
+        
         <Link
           heading="LOOM"
           subheading="A social media website with integrated e-commerce."
